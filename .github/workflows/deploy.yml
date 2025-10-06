@@ -30,6 +30,6 @@ jobs:
         uses: JamesIves/github-pages-deploy-action@v4
         with:
           branch: deploy
-          folder: build
+          folder: dist
           clean: true
           commit-message: "Deploy automático [skip ci]"
