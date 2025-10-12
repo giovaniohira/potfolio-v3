@@ -7,19 +7,19 @@ const Footer = () => {
   const socialLinks = [
     {
       name: 'GitHub',
-      href: 'https://github.com',
+      href: 'https://github.com/giovaniohira',
       icon: Github,
       color: 'hover:text-gray-100'
     },
     {
       name: 'LinkedIn',
-      href: 'https://linkedin.com',
+      href: 'https://linkedin.com/in/giovaniohira',
       icon: Linkedin,
       color: 'hover:text-blue-400'
     },
     {
       name: 'Email',
-      href: 'mailto:contact@example.com',
+      href: 'mailto:giovaniohira@gmail.com',
       icon: Mail,
       color: 'hover:text-purple-300'
     }
